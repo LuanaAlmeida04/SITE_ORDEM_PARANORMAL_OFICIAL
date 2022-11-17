@@ -1,0 +1,23 @@
+
+
+.container__principal {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 5em;
+}
+
+.container__ramificacoes {
+    text-align: center;
+    
+}
+
+.ramificacoes__texto {
+    padding: 0 10em 0 10em;
+}
+
+.container__titulo {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}

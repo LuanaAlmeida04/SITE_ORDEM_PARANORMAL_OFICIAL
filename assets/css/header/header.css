@@ -1,0 +1,36 @@
+.cabecalho {
+    background-color: var(--preto);
+}
+
+.cabecalho__container {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 12%;
+    padding: 0.2em;
+}
+
+.cabecalho__lista {
+    display: flex;
+    align-items: center;
+    
+}
+
+.cabecalho__lista--item {
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.item__link {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--cor-branca);
+}
+
+.cabecalho__logo--ordem {
+    max-width:229px;
+    max-height:96px;
+    width: auto;
+    height: auto;
+}

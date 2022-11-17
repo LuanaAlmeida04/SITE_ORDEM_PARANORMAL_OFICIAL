@@ -1,0 +1,22 @@
+@import url('../css/header/header.css');
+@import url('../css/carrossel/carrossel.css');
+@import url('../css/universo/universo.css');
+@import url('../css/ramificacoes/ramificacoes.css');
+
+:root {
+    --cinza-claro: #07060c;
+    --preto: #000000;
+    --cor-botao: #ffbc4f;
+    --cor-branca: #ffff;
+    --font-titulo: font-family: 'Roboto Condensed', sans-serif;
+    --font-texto: font-family: 'Roboto', sans-serif;
+  
+}
+
+body {
+    background-color: var(--cinza-claro);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: var(--cor-branca);
+}

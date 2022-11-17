@@ -1,0 +1,9 @@
+.apresentacao {
+    text-align: center;
+    padding: 1.5em;
+}
+
+.apresentacao__imagem {
+    max-width: 80%;
+
+}
